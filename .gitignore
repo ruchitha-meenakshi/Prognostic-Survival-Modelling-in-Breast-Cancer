@@ -1,0 +1,9 @@
+# R session + metadata
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+
+# project environment (optional)
+renv/library/
+renv/staging/
